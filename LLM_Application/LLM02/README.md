@@ -2,6 +2,12 @@
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
 
+## Day2 Practice Report 보기
+
+GitHub의 `.ipynb` 미리보기가 실패할 때는 아래 링크로 확인하세요.
+
+- [Day2_Practice_report.md](./Day2_Practice_report.md)
+- [nbviewer로 Day2_Practice_report.ipynb 보기](https://nbviewer.org/github/latemo/AIFFEL_quest_eng/blob/master/LLM_Application/LLM02/Day2_Practice_report.ipynb)
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
